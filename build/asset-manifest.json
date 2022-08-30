@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2046e774.css",
+    "main.js": "/static/js/main.e259683b.js",
+    "static/media/carlos-muza-hpjSkU2UYSU-unsplash.jpg": "/static/media/carlos-muza-hpjSkU2UYSU-unsplash.ef3338e2c14af34bf7f3.jpg",
+    "index.html": "/index.html",
+    "main.2046e774.css.map": "/static/css/main.2046e774.css.map",
+    "main.e259683b.js.map": "/static/js/main.e259683b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2046e774.css",
+    "static/js/main.e259683b.js"
+  ]
+}
