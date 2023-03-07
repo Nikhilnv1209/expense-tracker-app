@@ -7,7 +7,6 @@ import { PushToTalkButton, PushToTalkButtonContainer } from "@speechly/react-ui"
 
 const App = () => {
   const classes = useStyles();
-
   return (
     <>
       <Grid
